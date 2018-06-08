@@ -1,0 +1,15 @@
+@startuml
+skinparam titleBorderRoundCorner 15
+skinparam titleBorderThickness 2
+skinparam titleBorderColor #Black
+skinparam titleFontSize 24
+Title 老师开课
+
+actor 学生
+actor 老师
+database 数据库存储
+
+老师->数据库存储:选择要开的课
+数据库存储->学生:增加可选的课
+数据库存储->数据库存储:更新课选课总数
+@enduml
