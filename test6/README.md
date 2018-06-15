@@ -15,7 +15,7 @@
 
 ## 3.用例图设计[源码](https://github.com/lk357293221/is_analysis/blob/master/test6/src/UseCase.puml)
 
-[![img](https://github.com/lk357293221/is_analysis/raw/master/test6/UseCase.png)](https://github.com/zwdbox/is_analysis/blob/master/test6/UseCase.png)
+[![img](UseCase.png)](https://github.com/zwdbox/is_analysis/blob/master/test6/UseCase.png)
 
 ## 4.类图设计[源码](https://github.com/lk357293221/is_analysis/blob/master/test6/src/class.puml)
 
